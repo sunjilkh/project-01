@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="cart.css" />
+    <link rel="stylesheet" href="style1.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <section>
+      <nav class="navbar">
+        <div class="logo">
+            <h1>
+                F<span>oo</span>T<span>We</span>aR
+            </h1>
+
+        </div>
+        <ul>
+            <li><a href="welcome.html">Home</a></li>
+            <li><a href="product.html">Products</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="review.html">Reviews</a></li>
+            <li><a href="services.html">Services</a></li>
+            
+        </ul>
+        <div class="icons">
+            <!-- <a onclick="redirectToAnotherPage()" class="fa-solid fa-cart-shopping"></a> -->
+            <div class="Cart">
+              <i class="fa-solid fa-cart-shopping"></i>
+              <p id="count">0</p>
+            </div>
+            <!-- <a ><i class="fa-solid fa-user"></i></a> -->
+
+        </div>
+    </nav>
+      
+    </section>
+    <!-- <div class="header">
+      <p class="logo">F<span>oo</span>TW<span>ea</span>R</p>
+      <div class="Cart">
+        <i class="fa-solid fa-cart-shopping"></i>
+        <p id="count">0</p>
+      </div>
+    </div> -->
+    <div class="container">
+      <div id="root"></div>
+      <div class="slidebar">
+        <div class="head"><p>My Cart</p></div>
+        <div id="cartItem">Your cart is empty</div>
+        <div class="foot">
+          <h3>Total</h3>
+          <h2 id="total">৳ 00</h2>
+        </div>
+      </div>
+    </div>
+    <script src="cart.js"></script>
+  </body>
+</html>

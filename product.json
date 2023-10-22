@@ -1,0 +1,174 @@
+[
+    {
+        "id": 1,
+        "name": "NIKE",
+        "price": 520,
+        "image": "image/shoes.png"
+    },
+    
+    {
+        "id": 2,
+        "name": "NIKE",
+        "price": 220,
+        "image": "image/shoes1.png"
+    },
+    {
+        "id": 3,
+        "name": "NIKE",
+        "price": 250,
+        "image": "image/shoes2.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "NIKE",
+        "price": 420,
+        "image": "image/shoes3.png"
+    },
+    {
+        "id": 5,
+        "name": "NIKE",
+        "price": 120,
+        "image": "image/shoes4.png"
+    },
+    {
+        "id": 6,
+        "name": "NIKE",
+        "price": 120,
+        "image": "image/shoes5.png"
+    },
+    {
+        "id": 7,
+        "name": "NIKE",
+        "price": 120,
+        "image": "image/shoes6.png"
+    },
+    {
+        "id": 8,
+        "name": "NIKE",
+        "price": 120,
+        "image": "image/shoes7.png"
+    },
+    {
+        "id": 9,
+        "name": "NIKE",
+        "price": 120,
+        "image": "image/shoes7.png"
+    }
+    ,
+    
+    {
+        "id": 10,
+        "name": "NIKE",
+        "price": 220,
+        "image": "Ladies/2.png"
+    },
+    {
+        "id": 11,
+        "name": "NIKE",
+        "price": 250,
+        "image": "Ladies/3.png"
+    }
+    ,
+    {
+        "id": 12,
+        "name": "NIKE",
+        "price": 420,
+        "image": "Ladies/4.png"
+    },
+    {
+        "id": 13,
+        "name": "NIKE",
+        "price": 120,
+        "image": "Ladies/5.png"
+    },
+    {
+        "id": 14,
+        "name": "NIKE",
+        "price": 120,
+        "image": "Ladies/6.png"
+    },
+    {
+        "id": 15,
+        "name": "NIKE",
+        "price": 120,
+        "image": "Ladies/7.png"
+    },
+    {
+        "id": 16,
+        "name": "NIKE",
+        "price": 120,
+        "image": "Ladies/8.png"
+    },
+    {
+        "id": 17,
+        "name": "NIKE",
+        "price": 120,
+        "image": "Ladies/9.png"
+    }
+    , 
+    {
+        "id": 18 ,
+        "name": "NIKE",
+        "price": 520,
+        "image": "Ladies/1.png"
+    }
+    ,
+    
+    {
+        "id": 19,
+        "name": "NIKE",
+        "price": 220,
+        "image": "Fashion/2.png"
+    },
+    {
+        "id": 20,
+        "name": "NIKE",
+        "price": 250,
+        "image": "Fashion/3.png"
+    }
+    ,
+    {
+        "id": 21,
+        "name": "NIKE",
+        "price": 420,
+        "image": "Fashion/4.png"
+    },
+    {
+        "id": 22,
+        "name": "NIKE",
+        "price": 120,
+        "image": "Fashion/5.png"
+    },
+    {
+        "id": 23,
+        "name": "NIKE",
+        "price": 120,
+        "image": "Fashion/6.png"
+    },
+    {
+        "id": 24,
+        "name": "NIKE",
+        "price": 120,
+        "image": "Fashion/7.png"
+    },
+    {
+        "id": 25,
+        "name": "NIKE",
+        "price": 120,
+        "image": "Fashion/8.png"
+    },
+    {
+        "id": 26,
+        "name": "NIKE",
+        "price": 120,
+        "image": "Fashion/9.png"
+    }
+    , 
+    {
+        "id": 27 ,
+        "name": "NIKE",
+        "price": 520,
+        "image": "Fashion/1.png"
+    }
+]
